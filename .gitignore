@@ -4,3 +4,9 @@
 # Hide virtual environments
 venv/
 .env
+__pycache__/
+*.pyc
+.env.*
+.DS_Store
+*.sqlite3
+*.log
