@@ -1,0 +1,6 @@
+# Hide secrets
+.streamlit/secrets.toml
+
+# Hide virtual environments
+venv/
+.env

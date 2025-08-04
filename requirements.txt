@@ -1,0 +1,11 @@
+streamlit
+pandas
+ydata-profiling
+plotly
+matplotlib
+seaborn
+openpyxl
+langchain
+langchain-community
+langchain-groq
+python-dotenv
