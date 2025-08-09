@@ -74,7 +74,7 @@ streamlit run app.py
 
 ## Technologies Used
 
-- OpenAI GPT-4 (via LangChain)
+- Groq
 - LangChain Agents + Tools
 - Pandas for data processing
 - Matplotlib / Plotly for chart suggestions
